@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "thumbnail": "https://www.ktdoctor.com/wp-content/uploads/2023/08/Adrienne-C-Altman.png.webp",
+      "title": "Adrienne C. Altman",
+      "subtitle": "Subtitle for Card 1",
+      "description": "MD, Pediatrician",
+      "buttonCount": 2,
+      "buttons": [
+        { "label": "VALENCIA", "type": "primary", "url": "/button-1-url" }
+      ]
+    },
+    {
+      "id": 2,
+      "thumbnail": "https://www.ktdoctor.com/wp-content/uploads/2023/08/Palak-Shelat-300x288.png.webp",
+      "title": "Palak Shelat",
+      "subtitle": "Subtitle for Card 1",
+      "description": "M.D., FAAP",
+      "buttonCount": 2,
+      "buttons": [
+        { "label": "NORTHRIDGE", "type": "primary", "url": "/button-1-url" },
+        { "label": "VALENCIA", "type": "primary", "url": "/button-2-url" }
+      ]
+    },
+    {
+      "id": 3,
+      "thumbnail": "https://www.ktdoctor.com/wp-content/uploads/2023/08/Brian-Bhatt-300x288.png.webp",
+      "title": "Brian Bhatt",
+      "subtitle": "Subtitle for Card 1",
+      "description": "MD, FAAP",
+      "buttonCount": 2,
+      "buttons": [
+        { "label": "NORTHRIDGE", "type": "primary", "url": "/button-1-url" },
+        { "label": "VALENCIA", "type": "primary", "url": "/button-2-url" }
+      ]
+    },
+    {
+      "id": 4,
+      "thumbnail": "https://www.ktdoctor.com/wp-content/uploads/2023/09/Casie-McGuire.png.webp",
+      "title": "Casie McGuire",
+      "subtitle": "Subtitle for Card 1",
+      "description": "FNP-C",
+      "buttonCount": 2,
+      "buttons": [
+        { "label": "CANYON COUNTRY", "type": "primary", "url": "/button-1-url" },
+        { "label": "VALENCIA", "type": "primary", "url": "/button-2-url" }
+      ]
+    }
+  ]
+  

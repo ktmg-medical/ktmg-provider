@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "thumbnail": "https://www.ktdoctor.com/wp-content/uploads/2023/08/barbara-rodriguez.webp",
+    "title": "Barbara Rodriguez",
+    "subtitle": "Subtitle for Card 1",
+    "description": "MD, FAAP",
+    "buttonCount": 2,
+    "buttons": [
+      { "label": "PASADENA", "type": "primary", "url": "/button-1-url" }
+    ]
+  },
+  {
+    "id": 2,
+    "thumbnail": "https://www.ktdoctor.com/wp-content/uploads/2023/08/martin-fineberg-300x288.png.webp",
+    "title": "Martin Fineberg",
+    "subtitle": "Subtitle for Card 1",
+    "description": "MD, FAAP Board Certified Pediatrician",
+    "buttonCount": 2,
+    "buttons": [
+      { "label": "BEVERLY HILLS", "type": "primary", "url": "/button-1-url" },
+      { "label": "PASADENA", "type": "primary", "url": "/button-2-url" },
+      { "label": "CULVER CITY", "type": "primary", "url": "/button-1-url" },
+      { "label": "TORRANCE", "type": "primary", "url": "/button-2-url" }
+    ]
+  },
+  {
+    "id": 3,
+    "thumbnail": "https://www.ktdoctor.com/wp-content/uploads/2023/08/emily-brandt.png.webp",
+    "title": "Emily Brandt",
+    "subtitle": "Subtitle for Card 1",
+    "description": "MD",
+    "buttonCount": 2,
+    "buttons": [
+      { "label": "GLENDALE", "type": "primary", "url": "/button-1-url" },
+      { "label": "PASADENA", "type": "primary", "url": "/button-2-url" }
+    ]
+  },
+  {
+    "id": 4,
+    "thumbnail": "https://www.ktdoctor.com/wp-content/uploads/2023/09/Dr-Sylvia-Lam.png.webp",
+    "title": "Sylvia Lam",
+    "subtitle": "Subtitle for Card 1",
+    "description": "MD, FAAP",
+    "buttonCount": 2,
+    "buttons": [
+      { "label": "ARCADIA", "type": "primary", "url": "/button-1-url" },
+      { "label": "PASADENA", "type": "primary", "url": "/button-2-url" }
+    ]
+  },
+  {
+    "id": 5,
+    "thumbnail": "https://www.ktdoctor.com/wp-content/uploads/2023/08/erika-lee.webp",
+    "title": "Erika Lee",
+    "subtitle": "Subtitle for Card 1",
+    "description": "PNP Pediatric Nurse Practitioner",
+    "buttonCount": 2,
+    "buttons": [
+      { "label": "ARCADIA", "type": "primary", "url": "/button-1-url" },
+      { "label": "PASADENA", "type": "primary", "url": "/button-2-url" }
+    ]
+  },
+  {
+    "id": 6,
+    "thumbnail": "https://www.ktdoctor.com/wp-content/uploads/2023/12/Carolina-Ungs-150x150-1.webp",
+    "title": "Carolina Ungs",
+    "subtitle": "Subtitle for Card 1",
+    "description": "MD",
+    "buttonCount": 2,
+    "buttons": [
+      { "label": "PICO RIVERA", "type": "primary", "url": "/button-1-url" },
+      { "label": "PASADENA", "type": "primary", "url": "/button-2-url" },
+      { "label": "WHITTIER", "type": "primary", "url": "/button-2-url" }
+    ]
+  },
+  {
+    "id": 7,
+    "thumbnail": "https://www.ktdoctor.com/wp-content/uploads/2023/08/Miguel-Sutter.png.webp",
+    "title": "Miguel Sutter",
+    "subtitle": "Subtitle for Card 1",
+    "description": "PA-C Certified Physician Assistant",
+    "buttonCount": 2,
+    "buttons": [
+      { "label": "NORTHRIDGE", "type": "primary", "url": "/button-1-url" },
+      { "label": "WEST HILLS", "type": "primary", "url": "/button-2-url" },
+      { "label": "PASADENA", "type": "primary", "url": "/button-2-url" },
+      { "label": "VAN NUYS", "type": "primary", "url": "/button-2-url" }
+    ]
+  }
+]

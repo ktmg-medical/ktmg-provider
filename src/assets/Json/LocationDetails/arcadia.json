@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "thumbnail": "https://www.ktdoctor.com/wp-content/uploads/2023/08/erika-lee.webp",
+      "title": "Erika Lee",
+      "subtitle": "Subtitle for Card 1",
+      "description": "PNP",
+      "buttonCount": 2,
+      "buttons": [
+        { "label": "ARCADIA", "type": "primary", "url": "#" },
+        { "label": "PASADENA", "type": "primary", "url": "/ktmg-provider/pasadena" }
+      ]
+    },
+    {
+      "id": 2,
+      "thumbnail": "https://www.ktdoctor.com/wp-content/uploads/2023/09/Dr-Sylvia-Lam.png.webp",
+      "title": "Sylvia Lam",
+      "subtitle": "Subtitle for Card 1",
+      "description": "MD, FAAP",
+      "buttonCount": 2,
+      "buttons": [
+        { "label": "ARCADIA", "type": "primary", "url": "#" },
+        { "label": "PASADENA", "type": "primary", "url": "/ktmg-provider/pasadena" }
+      ]
+    }
+  ]
+  

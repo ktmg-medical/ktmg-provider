@@ -1,0 +1,22 @@
+[
+    { "name": "AGOURA HILLS", "url": "/agourahills" },
+    { "name": "ARCADIA", "url": "/arcadia" },
+    { "name": "BEVERLY HILLS", "url": "/beverly" },
+    { "name": "CANYON COUNTRY", "url": "/canyoncountry" },
+    { "name": "CULVER CITY", "url": "/culvercity" },
+    { "name": "DOWNEY", "url": "/downey" },
+    { "name": "GLENDALE", "url": "/glendale" },
+    { "name": "LA CAÑADA", "url": "/lacanada" },
+    { "name": "MISSION HILLS", "url": "/missionhills" },
+    { "name": "NORTHRIDGE", "url": "/northridge" },
+    { "name": "PICO RIVERA", "url": "/picorivera" },
+    { "name": "PASADENA", "url": "/pasadena" },
+    { "name": "TARZANA", "url": "/tarzana" },
+    { "name": "SAN FERNANDO", "url": "/sanfernando" },
+    { "name": "SANTA MONICA", "url": "/santamonica" },
+    { "name": "TORRANCE", "url": "/torrance" },
+    { "name": "VALENCIA", "url": "/valencia" },
+    { "name": "VAN NUYS", "url": "/vannuys" },
+    { "name": "WEST HILLS", "url": "/westhills" },
+    { "name": "WHITTIER", "url": "/whittier" }
+  ]

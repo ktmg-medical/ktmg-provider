@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "thumbnail": "https://www.ktdoctor.com/wp-content/uploads/2023/08/martin-fineberg-300x288.png.webp",
+    "title": "Martin Fineberg",
+    "subtitle": "Subtitle for Card 1",
+    "description": "MD, FAAP Board Certified Pediatrician",
+    "buttonCount": 2,
+    "buttons": [
+      {
+        "label": "BEVERLY HILLS",
+        "type": "primary",
+        "url": "/ktmg-provider/beverly"
+      },
+      {
+        "label": "CULVER CITY",
+        "type": "primary",
+        "url": "/ktmg-provider/culvercity"
+      },
+      {
+        "label": "PASADENA",
+        "type": "primary",
+        "url": "/ktmg-provider/pasadena"
+      },
+      {
+        "label": "TORRANCE",
+        "type": "primary",
+        "url": "/ktmg-provider/torrance"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "thumbnail": "https://www.ktdoctor.com/wp-content/uploads/2023/08/Sharmetha-150x150.png.webp",
+    "title": "Sharmetha Ramanan",
+    "subtitle": "Subtitle for Card 1",
+    "description": "PNP",
+    "buttonCount": 2,
+    "buttons": [
+      {
+        "label": "BEVERLY HILLS",
+        "type": "primary",
+        "url": "/ktmg-provider/beverly"
+      },
+      {
+        "label": "GLENDALE",
+        "type": "primary",
+        "url": "/ktmg-provider/glendale"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "thumbnail": "https://www.ktdoctor.com/wp-content/uploads/2023/08/rohina-furmuly-300x288.png.webp",
+    "title": "Rohina Furmuly",
+    "subtitle": "Subtitle for Card 1",
+    "description": "PA-C",
+    "buttonCount": 2,
+    "buttons": [
+      {
+        "label": "BEVERLY HILLS",
+        "type": "primary",
+        "url": "/ktmg-provider/beverly"
+      },
+      {
+        "label": "CULVER CITY",
+        "type": "primary",
+        "url": "/ktmg-provider/culvercity"
+      }
+    ]
+  }
+]

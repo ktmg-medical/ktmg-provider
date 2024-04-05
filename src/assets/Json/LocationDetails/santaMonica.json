@@ -1,0 +1,14 @@
+[
+    {
+      "id": 1,
+      "thumbnail": "https://www.ktdoctor.com/wp-content/uploads/2023/09/kim.png.webp",
+      "title": "Rebecca Kim",
+      "subtitle": "Subtitle for Card 1",
+      "description": "NP",
+      "buttonCount": 2,
+      "buttons": [
+        { "label": "SANTA MONICA", "type": "primary", "url": "/button-1-url" }
+      ]
+    }
+  ]
+  

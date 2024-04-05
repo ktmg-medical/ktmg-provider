@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "thumbnail": "https://www.ktdoctor.com/wp-content/uploads/2023/08/janesri-de-silva.webp",
+      "title": "Janesri De Silva",
+      "subtitle": "Subtitle for Card 1",
+      "description": "MD, FAAP",
+      "buttonCount": 2,
+      "buttons": [
+        { "label": "LA CAÑADA FLINTRIDGE", "type": "primary", "url": "/button-1-url" }
+      ]
+    },
+    {
+      "id": 2,
+      "thumbnail": "",
+      "title": "Mealynne Ngu",
+      "subtitle": "Subtitle for Card 1",
+      "description": "PNP Board Certified Pediatric Nurse Practitioner",
+      "buttonCount": 2,
+      "buttons": [
+        { "label": "LA CAÑADA FLINTRIDGE", "type": "primary", "url": "/button-1-url" },
+        { "label": "GLENDAL", "type": "primary", "url": "/button-1-url" }
+      ]
+    },
+    {
+      "id": 3,
+      "thumbnail": "https://www.ktdoctor.com/wp-content/uploads/2023/12/Tatiana1.jpg.webp",
+      "title": "Tatiana Genjoyan",
+      "subtitle": "Subtitle for Card 1",
+      "description": "PNP",
+      "buttonCount": 2,
+      "buttons": [
+        { "label": "LA CAÑADA FLINTRIDGE", "type": "primary", "url": "/button-1-url" }
+      ]
+    }
+  ]
+  

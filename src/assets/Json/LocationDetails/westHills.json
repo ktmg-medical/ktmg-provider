@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "thumbnail": "https://www.ktdoctor.com/wp-content/uploads/2023/08/mark-snyder-300x288.png.webp",
+    "title": "Mark Snyder",
+    "subtitle": "Subtitle for Card 1",
+    "description": "MD, FAAP Board Certified Pediatrician",
+    "buttonCount": 2,
+    "buttons": [
+      { "label": "AGOURA HILLS", "type": "primary", "url": "/button-1-url" },
+      { "label": "WEST HILLS", "type": "primary", "url": "/button-2-url" }
+    ]
+  },
+  {
+    "id": 2,
+    "thumbnail": "https://www.ktdoctor.com/wp-content/uploads/2023/08/hilma-benjamin-150x150-1.webp",
+    "title": "Hilma Benjamin",
+    "subtitle": "Subtitle for Card 1",
+    "description": "MD, FAAP Board Certified Pediatrician",
+    "buttonCount": 2,
+    "buttons": [
+      { "label": "MISSION HILLS", "type": "primary", "url": "/button-1-url" },
+      { "label": "NORTHRIDGE", "type": "primary", "url": "/button-2-url" },
+      { "label": "PICO RIVERA", "type": "primary", "url": "/button-1-url" },
+      { "label": "WEST HILLS", "type": "primary", "url": "/button-2-url" }
+    ]
+  },
+  {
+    "id": 3,
+    "thumbnail": "https://www.ktdoctor.com/wp-content/uploads/2023/08/cze-ja-tam-150x150-1.webp",
+    "title": "Cze-ja Tam",
+    "subtitle": "Subtitle for Card 1",
+    "description": "PNP Board Certified Pediatric Nurse Practitioner",
+    "buttonCount": 2,
+    "buttons": [
+      { "label": "WEST HILLS", "type": "primary", "url": "/button-1-url" }
+    ]
+  },
+  {
+    "id": 4,
+    "thumbnail": "",
+    "title": "Amrita Dosanjh",
+    "subtitle": "Subtitle for Card 1",
+    "description": "MD",
+    "buttonCount": 2,
+    "buttons": [
+      { "label": "WEST HILLS", "type": "primary", "url": "/button-1-url" }
+    ]
+  },
+  {
+    "id": 5,
+    "thumbnail": "https://www.ktdoctor.com/wp-content/uploads/2023/08/Miguel-Sutter.png.webp",
+    "title": "Miguel Sutter",
+    "subtitle": "Subtitle for Card 1",
+    "description": "PA-C Certified Physician Assistant",
+    "buttonCount": 2,
+    "buttons": [
+      { "label": "NORTHRIDG", "type": "primary", "url": "/button-1-url" },
+      { "label": "PASADENA", "type": "primary", "url": "/button-2-url" },
+      { "label": "VAN NUYS", "type": "primary", "url": "/button-1-url" },
+      { "label": "WEST HILLS", "type": "primary", "url": "/button-2-url" }
+    ]
+  },
+  {
+    "id": 6,
+    "thumbnail": "https://www.ktdoctor.com/wp-content/uploads/2023/09/Kelly.png.webp",
+    "title": "Kelli Hernandez",
+    "subtitle": "Subtitle for Card 1",
+    "description": "NP",
+    "buttonCount": 2,
+    "buttons": [
+      { "label": "WEST HILLS", "type": "primary", "url": "/button-1-url" }
+    ]
+  }
+]

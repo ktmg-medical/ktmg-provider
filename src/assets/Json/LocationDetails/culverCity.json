@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "thumbnail": "https://www.ktdoctor.com/wp-content/uploads/2023/08/martin-fineberg-300x288.png.webp",
+    "title": "Martin Fineberg",
+    "subtitle": "Subtitle for Card 1",
+    "description": "MD, FAAP Board Certified Pediatrician",
+    "buttonCount": 2,
+    "buttons": [
+      { "label": "BEVERLY HILLS", "type": "primary", "url": "/button-1-url" },
+      { "label": "CULVER CITY", "type": "primary", "url": "/button-2-url" },
+      { "label": "PASADENA", "type": "primary", "url": "/button-2-url" },
+      { "label": "TORRANCE", "type": "primary", "url": "/button-2-url" }
+    ]
+  },
+  {
+    "id": 2,
+    "thumbnail": "https://www.ktdoctor.com/wp-content/uploads/2023/08/Dr-Rena-Keynigshteyn.png.webp",
+    "title": "Rena Keynigshteyn",
+    "subtitle": "Subtitle for Card 1",
+    "description": "MD",
+    "buttonCount": 2,
+    "buttons": [
+      { "label": "CULVER CITY", "type": "primary", "url": "/button-1-url" },
+      { "label": "TARZANA", "type": "primary", "url": "/button-2-url" }
+    ]
+  },
+  {
+    "id": 3,
+    "thumbnail": "https://www.ktdoctor.com/wp-content/uploads/2023/08/Rachel-Barbour-150x150.png.webp",
+    "title": "Rachel Barbour",
+    "subtitle": "Subtitle for Card 1",
+    "description": "MD, FAAP",
+    "buttonCount": 2,
+    "buttons": [
+      { "label": "CULVER CITY", "type": "primary", "url": "/button-1-url" },
+      { "label": "TORRANCE", "type": "primary", "url": "/button-2-url" }
+    ]
+  },
+  {
+    "id": 4,
+    "thumbnail": "https://www.ktdoctor.com/wp-content/uploads/2023/12/Monique-Craig.jpg.webp",
+    "title": "Monique Craig",
+    "subtitle": "Subtitle for Card 1",
+    "description": "PA",
+    "buttonCount": 2,
+    "buttons": [
+      { "label": "CULVER CITY", "type": "primary", "url": "/button-1-url" }
+    ]
+  },
+  {
+    "id": 5,
+    "thumbnail": "https://www.ktdoctor.com/wp-content/uploads/2023/08/rohina-furmuly-300x288.png.webp",
+    "title": "Rohina Furmuly",
+    "subtitle": "Subtitle for Card 1",
+    "description": "PA-C",
+    "buttonCount": 2,
+    "buttons": [
+      { "label": "BEVERLY HILLS", "type": "primary", "url": "/button-1-url" },
+      { "label": "CULVER CITY", "type": "primary", "url": "/button-2-url" }
+    ]
+  },
+  {
+    "id": 6,
+    "thumbnail": "https://www.ktdoctor.com/wp-content/uploads/2023/12/Azam-Jazayeri-150x150-1.webp",
+    "title": "Azam Jazayeri",
+    "subtitle": "Subtitle for Card 1",
+    "description": "MD",
+    "buttonCount": 2,
+    "buttons": [
+      { "label": "CULVER CITY", "type": "primary", "url": "/button-2-url" }
+    ]
+  }
+]
