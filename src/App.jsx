@@ -16,12 +16,10 @@ function App() {
     <>
     <div style={{ backgroundImage: `url(${bg})`, backgroundSize: 'cover', backgroundPosition: 'center', backgroundRepeat: 'no-repeat' }}>
       <BrowserRouter>
-        <Header />
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
         </Routes>
-        <Footer/>
       </BrowserRouter>
       </div>
     </>
