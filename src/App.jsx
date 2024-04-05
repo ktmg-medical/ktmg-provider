@@ -2,7 +2,7 @@ import { useState } from "react";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
-import bg from './assets/Images/bg.jpg';
+// import bg from './assets/Images/bg.jpg';
 
 import Home from "./Pages/Home/Home";
 import About from "./Pages/Home/About";
@@ -15,7 +15,7 @@ function App() {
   return (
     <>
     
-      <BrowserRouter>
+      <BrowserRouter basename="/ktmg-provider">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
