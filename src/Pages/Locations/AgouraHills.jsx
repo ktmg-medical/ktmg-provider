@@ -58,7 +58,7 @@ const AgouraHills = () => {
                 <div style={{ marginBottom: "16px" }}>
                   <Card
                     style={{
-                      width: "500%",
+                      width: "300%",
                       maxWidth: "800px",
                       boxShadow: "0 4px 8px rgba(0, 0, 0, 0.1)",
                       marginTop: "50px",

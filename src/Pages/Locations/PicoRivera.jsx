@@ -12,7 +12,12 @@ const PicoRivera = () => {
       <Col xs={{ span: 24 }} md={{ span: 12 }}>
         {/* Back button */}
         <Link to="/">
-          <Button type="primary" style={{ marginBottom: '16px', marginLeft: "100px" }}>Go Back</Button>
+          <Button
+            type="primary"
+            style={{ marginBottom: "16px", marginLeft: "100px" }}
+          >
+            Go Back
+          </Button>
         </Link>
         <Row gutter={[16, 16]}>
           <Col span={12}>
@@ -41,15 +46,14 @@ const PicoRivera = () => {
                 fontWeight: "400",
               }}
             >
-              8337 TELEGRAPH RD #119,
-PICO RIVERA, CA 90660
+              8337 TELEGRAPH RD #119, PICO RIVERA, CA 90660
             </h3>
           </Col>
         </Row>
         {/* Left half: Cards */}
         <div style={{ height: "100vh", overflowY: "auto" }}>
           {data.map((item) => (
-            <Row key={item.id} justify="left" style={{marginLeft : "100px"}}>
+            <Row key={item.id} justify="left" style={{ marginLeft: "100px" }}>
               <Col
                 xs={{ span: 24 }}
                 sm={{ span: 12 }}
@@ -59,7 +63,7 @@ PICO RIVERA, CA 90660
                 <div style={{ marginBottom: "16px" }}>
                   <Card
                     style={{
-                      width: "500%",
+                      width: "300%",
                       maxWidth: "800px",
                       boxShadow: "0 4px 8px rgba(0, 0, 0, 0.1)",
                       marginTop: "50px",

@@ -12,7 +12,12 @@ const SanFernando = () => {
       <Col xs={{ span: 24 }} md={{ span: 12 }}>
         {/* Back button */}
         <Link to="/">
-          <Button type="primary" style={{ marginBottom: '16px', marginLeft: "100px" }}>Go Back</Button>
+          <Button
+            type="primary"
+            style={{ marginBottom: "16px", marginLeft: "100px" }}
+          >
+            Go Back
+          </Button>
         </Link>
         <Row gutter={[16, 16]}>
           <Col span={12}>
@@ -24,7 +29,7 @@ const SanFernando = () => {
                 fontWeight: "700",
               }}
             >
-              Agoura Hills
+              San Fernando
             </h1>
             <h3
               className="container"
@@ -41,14 +46,14 @@ const SanFernando = () => {
                 fontWeight: "400",
               }}
             >
-              5115 CLARETON DRIVE, SUITE 150 AGOURA HILLS, CA 91301
+              777 TRUMAN STREET, SUITE 105 SAN FERNANDO, CA 91340
             </h3>
           </Col>
         </Row>
         {/* Left half: Cards */}
         <div style={{ height: "100vh", overflowY: "auto" }}>
           {data.map((item) => (
-            <Row key={item.id} justify="left" style={{marginLeft : "100px"}}>
+            <Row key={item.id} justify="left" style={{ marginLeft: "100px" }}>
               <Col
                 xs={{ span: 24 }}
                 sm={{ span: 12 }}
@@ -58,7 +63,7 @@ const SanFernando = () => {
                 <div style={{ marginBottom: "16px" }}>
                   <Card
                     style={{
-                      width: "500%",
+                      width: "300%",
                       maxWidth: "800px",
                       boxShadow: "0 4px 8px rgba(0, 0, 0, 0.1)",
                       marginTop: "50px",
@@ -128,7 +133,7 @@ const SanFernando = () => {
           }}
         >
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3310.4973754193647!2d-118.7544524!3d34.1462474!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80e824026291beef%3A0xc8f2fa9f1a3548b7!2sKids%20%26%20Teens%20Medical%20Group!5e0!3m2!1sen!2sus!4v1651278836747!5m2!1sen!2sus"
+            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1648.3551089941252!2d-118.438645!3d34.281441!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2913dfb1f87c3%3A0x4e73ca77351d5074!2sKids%20%26%20Teens%20Medical%20Group!5e0!3m2!1sen!2sus!4v1712682988339!5m2!1sen!2sus"
             width="100%"
             height="100%"
             style={{ border: 0 }}

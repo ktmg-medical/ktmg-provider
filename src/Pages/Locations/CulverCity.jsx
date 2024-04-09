@@ -12,7 +12,12 @@ const CulverCity = () => {
       <Col xs={{ span: 24 }} md={{ span: 12 }}>
         {/* Back button */}
         <Link to="/">
-          <Button type="primary" style={{ marginBottom: '16px', marginLeft: "100px" }}>Go Back</Button>
+          <Button
+            type="primary"
+            style={{ marginBottom: "16px", marginLeft: "100px" }}
+          >
+            Go Back
+          </Button>
         </Link>
         <Row gutter={[16, 16]}>
           <Col span={12}>
@@ -41,15 +46,14 @@ const CulverCity = () => {
                 fontWeight: "400",
               }}
             >
-              3831 HUGHES AVENUE, SUITE 602
-CULVER CITY, CA 90232
+              3831 HUGHES AVENUE, SUITE 602 CULVER CITY, CA 90232
             </h3>
           </Col>
         </Row>
         {/* Left half: Cards */}
         <div style={{ height: "100vh", overflowY: "auto" }}>
           {data.map((item) => (
-            <Row key={item.id} justify="left" style={{marginLeft : "100px"}}>
+            <Row key={item.id} justify="left" style={{ marginLeft: "100px" }}>
               <Col
                 xs={{ span: 24 }}
                 sm={{ span: 12 }}
@@ -59,7 +63,7 @@ CULVER CITY, CA 90232
                 <div style={{ marginBottom: "16px" }}>
                   <Card
                     style={{
-                      width: "500%",
+                      width: "300%",
                       maxWidth: "800px",
                       boxShadow: "0 4px 8px rgba(0, 0, 0, 0.1)",
                       marginTop: "50px",
@@ -129,7 +133,7 @@ CULVER CITY, CA 90232
           }}
         >
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1652.3518122613202!2d-118.381562!3d34.077111!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c290613358c889%3A0xfff2e99a1778d210!2sKids%20%26%20Teens%20Medical%20Group!5e0!3m2!1sen!2sus!4v1712169883170!5m2!1sen!2sus"
+            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1652.3518122613202!2d-118.381562!3d34.077111!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c290613358c889%3A0xfff2e99a1778d210!2sKids%20%26%20Teens%20Medical%20Group!5e0!3m2!1sen!2sus!4v1712683128803!5m2!1sen!2sus"
             width="100%"
             height="100%"
             style={{ border: 0 }}
