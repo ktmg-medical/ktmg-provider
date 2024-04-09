@@ -7,7 +7,7 @@
       "description": "MD, Pediatrician",
       "buttonCount": 2,
       "buttons": [
-        { "label": "VALENCIA", "type": "primary", "url": "/button-1-url" }
+        { "label": "VALENCIA", "type": "primary", "url": "" }
       ]
     },
     {
@@ -18,8 +18,8 @@
       "description": "M.D., FAAP",
       "buttonCount": 2,
       "buttons": [
-        { "label": "NORTHRIDGE", "type": "primary", "url": "/button-1-url" },
-        { "label": "VALENCIA", "type": "primary", "url": "/button-2-url" }
+        { "label": "NORTHRIDGE", "type": "primary", "url": "" },
+        { "label": "VALENCIA", "type": "primary", "url": "" }
       ]
     },
     {
@@ -30,8 +30,8 @@
       "description": "MD, FAAP",
       "buttonCount": 2,
       "buttons": [
-        { "label": "NORTHRIDGE", "type": "primary", "url": "/button-1-url" },
-        { "label": "VALENCIA", "type": "primary", "url": "/button-2-url" }
+        { "label": "NORTHRIDGE", "type": "primary", "url": "" },
+        { "label": "VALENCIA", "type": "primary", "url": "" }
       ]
     },
     {
@@ -42,8 +42,8 @@
       "description": "FNP-C",
       "buttonCount": 2,
       "buttons": [
-        { "label": "CANYON COUNTRY", "type": "primary", "url": "/button-1-url" },
-        { "label": "VALENCIA", "type": "primary", "url": "/button-2-url" }
+        { "label": "CANYON COUNTRY", "type": "primary", "url": "" },
+        { "label": "VALENCIA", "type": "primary", "url": "" }
       ]
     }
   ]

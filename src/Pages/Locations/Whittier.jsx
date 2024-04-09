@@ -11,8 +11,13 @@ const Whittier = () => {
     <Row gutter={[16, 16]}>
       <Col xs={{ span: 24 }} md={{ span: 12 }}>
         {/* Back button */}
-        <Link to="/ktmg-provider/">
-          <Button type="primary" style={{ marginBottom: '16px', marginLeft: "100px" }}>Go Back</Button>
+        <Link to="/">
+          <Button
+            type="primary"
+            style={{ marginBottom: "16px", marginLeft: "100px" }}
+          >
+            Go Back
+          </Button>
         </Link>
         <Row gutter={[16, 16]}>
           <Col span={12}>
@@ -24,7 +29,7 @@ const Whittier = () => {
                 fontWeight: "700",
               }}
             >
-              Agoura Hills
+              Whittier
             </h1>
             <h3
               className="container"
@@ -41,14 +46,14 @@ const Whittier = () => {
                 fontWeight: "400",
               }}
             >
-              5115 CLARETON DRIVE, SUITE 150 AGOURA HILLS, CA 91301
+              13470 TELEGRAPH ROAD, WHITTIER, CA 90605
             </h3>
           </Col>
         </Row>
         {/* Left half: Cards */}
         <div style={{ height: "100vh", overflowY: "auto" }}>
           {data.map((item) => (
-            <Row key={item.id} justify="left" style={{marginLeft : "100px"}}>
+            <Row key={item.id} justify="left" style={{ marginLeft: "100px" }}>
               <Col
                 xs={{ span: 24 }}
                 sm={{ span: 12 }}
@@ -128,7 +133,7 @@ const Whittier = () => {
           }}
         >
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3310.4973754193647!2d-118.7544524!3d34.1462474!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80e824026291beef%3A0xc8f2fa9f1a3548b7!2sKids%20%26%20Teens%20Medical%20Group!5e0!3m2!1sen!2sus!4v1651278836747!5m2!1sen!2sus"
+            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1655.0466376453805!2d-118.04465800000001!3d33.938729!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2d5a422becb33%3A0xb05875be654dcd7c!2sKids%20%26%20Teens%20Medical%20Group!5e0!3m2!1sen!2sus!4v1712679856087!5m2!1sen!2sus"
             width="100%"
             height="100%"
             style={{ border: 0 }}

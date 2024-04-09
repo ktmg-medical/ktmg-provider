@@ -7,7 +7,7 @@
     "description": "MD, FAAP",
     "buttonCount": 2,
     "buttons": [
-      { "label": "PASADENA", "type": "primary", "url": "/button-1-url" }
+      { "label": "PASADENA", "type": "primary", "url": "" }
     ]
   },
   {
@@ -18,10 +18,10 @@
     "description": "MD, FAAP Board Certified Pediatrician",
     "buttonCount": 2,
     "buttons": [
-      { "label": "BEVERLY HILLS", "type": "primary", "url": "/button-1-url" },
-      { "label": "PASADENA", "type": "primary", "url": "/button-2-url" },
-      { "label": "CULVER CITY", "type": "primary", "url": "/button-1-url" },
-      { "label": "TORRANCE", "type": "primary", "url": "/button-2-url" }
+      { "label": "BEVERLY HILLS", "type": "primary", "url": "" },
+      { "label": "PASADENA", "type": "primary", "url": "" },
+      { "label": "CULVER CITY", "type": "primary", "url": "" },
+      { "label": "TORRANCE", "type": "primary", "url": "" }
     ]
   },
   {
@@ -32,8 +32,8 @@
     "description": "MD",
     "buttonCount": 2,
     "buttons": [
-      { "label": "GLENDALE", "type": "primary", "url": "/button-1-url" },
-      { "label": "PASADENA", "type": "primary", "url": "/button-2-url" }
+      { "label": "GLENDALE", "type": "primary", "url": "" },
+      { "label": "PASADENA", "type": "primary", "url": "" }
     ]
   },
   {
@@ -44,8 +44,8 @@
     "description": "MD, FAAP",
     "buttonCount": 2,
     "buttons": [
-      { "label": "ARCADIA", "type": "primary", "url": "/button-1-url" },
-      { "label": "PASADENA", "type": "primary", "url": "/button-2-url" }
+      { "label": "ARCADIA", "type": "primary", "url": "" },
+      { "label": "PASADENA", "type": "primary", "url": "" }
     ]
   },
   {
@@ -56,8 +56,8 @@
     "description": "PNP Pediatric Nurse Practitioner",
     "buttonCount": 2,
     "buttons": [
-      { "label": "ARCADIA", "type": "primary", "url": "/button-1-url" },
-      { "label": "PASADENA", "type": "primary", "url": "/button-2-url" }
+      { "label": "ARCADIA", "type": "primary", "url": "" },
+      { "label": "PASADENA", "type": "primary", "url": "" }
     ]
   },
   {
@@ -68,9 +68,9 @@
     "description": "MD",
     "buttonCount": 2,
     "buttons": [
-      { "label": "PICO RIVERA", "type": "primary", "url": "/button-1-url" },
-      { "label": "PASADENA", "type": "primary", "url": "/button-2-url" },
-      { "label": "WHITTIER", "type": "primary", "url": "/button-2-url" }
+      { "label": "PICO RIVERA", "type": "primary", "url": "" },
+      { "label": "PASADENA", "type": "primary", "url": "" },
+      { "label": "WHITTIER", "type": "primary", "url": "" }
     ]
   },
   {
@@ -81,10 +81,10 @@
     "description": "PA-C Certified Physician Assistant",
     "buttonCount": 2,
     "buttons": [
-      { "label": "NORTHRIDGE", "type": "primary", "url": "/button-1-url" },
-      { "label": "WEST HILLS", "type": "primary", "url": "/button-2-url" },
-      { "label": "PASADENA", "type": "primary", "url": "/button-2-url" },
-      { "label": "VAN NUYS", "type": "primary", "url": "/button-2-url" }
+      { "label": "NORTHRIDGE", "type": "primary", "url": "" },
+      { "label": "WEST HILLS", "type": "primary", "url": "" },
+      { "label": "PASADENA", "type": "primary", "url": "" },
+      { "label": "VAN NUYS", "type": "primary", "url": "" }
     ]
   }
 ]

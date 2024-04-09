@@ -7,8 +7,8 @@
     "description": "MD, FAAP Board Certified Infectious Disease",
     "buttonCount": 2,
     "buttons": [
-      { "label": "NORTHRIDGE", "type": "primary", "url": "/button-1-url" },
-      { "label": "SAN FERNANDO", "type": "primary", "url": "/button-2-url" }
+      { "label": "NORTHRIDGE", "type": "primary", "url": "" },
+      { "label": "SAN FERNANDO", "type": "primary", "url": "" }
     ]
   },
   {
@@ -19,8 +19,8 @@
     "description": "PA Certified Physician Assistant",
     "buttonCount": 2,
     "buttons": [
-      { "label": "SAN FERNANDO", "type": "primary", "url": "/button-1-url" },
-      { "label": "VAN NUYS", "type": "primary", "url": "/button-2-url" }
+      { "label": "SAN FERNANDO", "type": "primary", "url": "" },
+      { "label": "VAN NUYS", "type": "primary", "url": "" }
     ]
   },
   {
@@ -28,11 +28,11 @@
     "thumbnail": "https://www.ktdoctor.com/wp-content/uploads/2023/09/Morales.png.webp",
     "title": "Laurie Beth Juarez- Morales",
     "subtitle": "Subtitle for Card 1",
-    "description": "MD, FAAP",
+    "description": "MD",
     "buttonCount": 2,
     "buttons": [
-      { "label": "SAN FERNANDO", "type": "primary", "url": "/button-1-url" },
-      { "label": "VAN NUYS", "type": "primary", "url": "/button-2-url" }
+      { "label": "SAN FERNANDO", "type": "primary", "url": "" },
+      { "label": "VAN NUYS", "type": "primary", "url": "" }
     ]
   }
 ]

@@ -11,7 +11,7 @@ const Torrance = () => {
     <Row gutter={[16, 16]}>
       <Col xs={{ span: 24 }} md={{ span: 12 }}>
         {/* Back button */}
-        <Link to="/ktmg-provider/">
+        <Link to="/">
           <Button
             type="primary"
             style={{ marginBottom: "16px", marginLeft: "100px" }}

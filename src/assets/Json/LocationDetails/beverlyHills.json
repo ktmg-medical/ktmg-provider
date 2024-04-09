@@ -10,22 +10,22 @@
       {
         "label": "BEVERLY HILLS",
         "type": "primary",
-        "url": "/ktmg-provider/beverly"
+        "url": ""
       },
       {
         "label": "CULVER CITY",
         "type": "primary",
-        "url": "/ktmg-provider/culvercity"
+        "url": ""
       },
       {
         "label": "PASADENA",
         "type": "primary",
-        "url": "/ktmg-provider/pasadena"
+        "url": ""
       },
       {
         "label": "TORRANCE",
         "type": "primary",
-        "url": "/ktmg-provider/torrance"
+        "url": ""
       }
     ]
   },
@@ -40,12 +40,12 @@
       {
         "label": "BEVERLY HILLS",
         "type": "primary",
-        "url": "/ktmg-provider/beverly"
+        "url": ""
       },
       {
         "label": "GLENDALE",
         "type": "primary",
-        "url": "/ktmg-provider/glendale"
+        "url": ""
       }
     ]
   },
@@ -60,12 +60,12 @@
       {
         "label": "BEVERLY HILLS",
         "type": "primary",
-        "url": "/ktmg-provider/beverly"
+        "url": ""
       },
       {
         "label": "CULVER CITY",
         "type": "primary",
-        "url": "/ktmg-provider/culvercity"
+        "url": ""
       }
     ]
   }

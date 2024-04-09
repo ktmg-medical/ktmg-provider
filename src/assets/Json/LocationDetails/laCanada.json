@@ -7,19 +7,19 @@
       "description": "MD, FAAP",
       "buttonCount": 2,
       "buttons": [
-        { "label": "LA CAÑADA FLINTRIDGE", "type": "primary", "url": "/button-1-url" }
+        { "label": "LA CAÑADA FLINTRIDGE", "type": "primary", "url": "" }
       ]
     },
     {
       "id": 2,
-      "thumbnail": "",
+      "thumbnail": "https://static-00.iconduck.com/assets.00/profile-circle-icon-2048x2048-cqe5466q.png",
       "title": "Mealynne Ngu",
       "subtitle": "Subtitle for Card 1",
       "description": "PNP Board Certified Pediatric Nurse Practitioner",
       "buttonCount": 2,
       "buttons": [
-        { "label": "LA CAÑADA FLINTRIDGE", "type": "primary", "url": "/button-1-url" },
-        { "label": "GLENDAL", "type": "primary", "url": "/button-1-url" }
+        { "label": "LA CAÑADA FLINTRIDGE", "type": "primary", "url": "" },
+        { "label": "GLENDAL", "type": "primary", "url": "" }
       ]
     },
     {
@@ -30,7 +30,7 @@
       "description": "PNP",
       "buttonCount": 2,
       "buttons": [
-        { "label": "LA CAÑADA FLINTRIDGE", "type": "primary", "url": "/button-1-url" }
+        { "label": "Telehealth only", "type": "danger", "url": "" }
       ]
     }
   ]

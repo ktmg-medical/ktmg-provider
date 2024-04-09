@@ -7,8 +7,8 @@
       "description": "MD, FAAP Board Certified Pediatrician",
       "buttonCount": 2,
       "buttons": [
-        { "label": "AGOURA HILLS", "type": "primary", "url": "/ktmg-provider/agourahills" },
-        { "label": "West Hills", "type": "primary", "url": "/button-2-url" }
+        { "label": "AGOURA HILLS", "type": "primary", "url": "" },
+        { "label": "West Hills", "type": "primary", "url": "" }
       ]
     }
   ]

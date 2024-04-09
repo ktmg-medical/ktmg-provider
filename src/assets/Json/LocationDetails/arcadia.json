@@ -7,8 +7,8 @@
       "description": "PNP",
       "buttonCount": 2,
       "buttons": [
-        { "label": "ARCADIA", "type": "primary", "url": "#" },
-        { "label": "PASADENA", "type": "primary", "url": "/ktmg-provider/pasadena" }
+        { "label": "ARCADIA", "type": "primary", "url": "" },
+        { "label": "PASADENA", "type": "primary", "url": "" }
       ]
     },
     {
@@ -19,8 +19,8 @@
       "description": "MD, FAAP",
       "buttonCount": 2,
       "buttons": [
-        { "label": "ARCADIA", "type": "primary", "url": "#" },
-        { "label": "PASADENA", "type": "primary", "url": "/ktmg-provider/pasadena" }
+        { "label": "ARCADIA", "type": "primary", "url": "" },
+        { "label": "PASADENA", "type": "primary", "url": "" }
       ]
     }
   ]

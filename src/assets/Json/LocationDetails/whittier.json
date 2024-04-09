@@ -7,9 +7,9 @@
     "description": "MD",
     "buttonCount": 2,
     "buttons": [
-      { "label": "PICO RIVERA", "type": "primary", "url": "/button-1-url" },
-      { "label": "PASADENA", "type": "primary", "url": "/button-2-url" },
-      { "label": "WHITTIER", "type": "primary", "url": "/button-1-url" }
+      { "label": "PICO RIVERA", "type": "primary", "url": "" },
+      { "label": "PASADENA", "type": "primary", "url": "" },
+      { "label": "WHITTIER", "type": "primary", "url": "" }
     ]
   },
   {
@@ -20,9 +20,9 @@
     "description": "NP",
     "buttonCount": 2,
     "buttons": [
-      { "label": "TORRANCE", "type": "primary", "url": "/button-1-url" },
-      { "label": "PICO RIVERA", "type": "primary", "url": "/button-2-url" },
-      { "label": "WHITTIER", "type": "primary", "url": "/button-2-url" }
+      { "label": "TORRANCE", "type": "primary", "url": "" },
+      { "label": "PICO RIVERA", "type": "primary", "url": "" },
+      { "label": "WHITTIER", "type": "primary", "url": "" }
     ]
   },
   {
@@ -33,10 +33,10 @@
     "description": "PA",
     "buttonCount": 2,
     "buttons": [
-      { "label": "CULVER CITY", "type": "primary", "url": "/button-1-url" },
-      { "label": "TORRANCE", "type": "primary", "url": "/button-2-url" },
-      { "label": "PICO RIVERA", "type": "primary", "url": "/button-1-url" },
-      { "label": "WHITTIER", "type": "primary", "url": "/button-2-url" }
+      { "label": "CULVER CITY", "type": "primary", "url": "" },
+      { "label": "TORRANCE", "type": "primary", "url": "" },
+      { "label": "PICO RIVERA", "type": "primary", "url": "" },
+      { "label": "WHITTIER", "type": "primary", "url": "" }
     ]
   }
 ]

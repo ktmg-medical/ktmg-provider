@@ -7,8 +7,8 @@
     "description": "FNP-C",
     "buttonCount": 2,
     "buttons": [
-      { "label": "CANYON COUNTRY", "type": "primary", "url": "/button-1-url" },
-      { "label": "VALENCIA", "type": "primary", "url": "/button-1-url" }
+      { "label": "CANYON COUNTRY", "type": "primary", "url": "" },
+      { "label": "VALENCIA", "type": "primary", "url": "" }
     ]
   },
   {
@@ -19,8 +19,8 @@
     "description": "MD, FAAP",
     "buttonCount": 2,
     "buttons": [
-      { "label": "CANYON COUNTRY", "type": "primary", "url": "/button-1-url" },
-      { "label": "NORTHRIDGE", "type": "primary", "url": "/button-1-url" }
+      { "label": "CANYON COUNTRY", "type": "primary", "url": "" },
+      { "label": "NORTHRIDGE", "type": "primary", "url": "" }
     ]
   }
 ]

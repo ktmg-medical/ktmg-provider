@@ -7,10 +7,10 @@
     "description": "MD, FAAP Board Certified Pediatrician",
     "buttonCount": 2,
     "buttons": [
-      { "label": "BEVERLY HILLS", "type": "primary", "url": "/button-1-url" },
-      { "label": "CULVER CITY", "type": "primary", "url": "/button-2-url" },
-      { "label": "PASADENA", "type": "primary", "url": "/button-2-url" },
-      { "label": "TORRANCE", "type": "primary", "url": "/button-2-url" }
+      { "label": "BEVERLY HILLS", "type": "primary", "url": "" },
+      { "label": "CULVER CITY", "type": "primary", "url": "" },
+      { "label": "PASADENA", "type": "primary", "url": "" },
+      { "label": "TORRANCE", "type": "primary", "url": "" }
     ]
   },
   {
@@ -21,8 +21,8 @@
     "description": "MD",
     "buttonCount": 2,
     "buttons": [
-      { "label": "CULVER CITY", "type": "primary", "url": "/button-1-url" },
-      { "label": "TARZANA", "type": "primary", "url": "/button-2-url" }
+      { "label": "CULVER CITY", "type": "primary", "url": "" },
+      { "label": "TARZANA", "type": "primary", "url": "" }
     ]
   },
   {
@@ -33,8 +33,8 @@
     "description": "MD, FAAP",
     "buttonCount": 2,
     "buttons": [
-      { "label": "CULVER CITY", "type": "primary", "url": "/button-1-url" },
-      { "label": "TORRANCE", "type": "primary", "url": "/button-2-url" }
+      { "label": "CULVER CITY", "type": "primary", "url": "" },
+      { "label": "TORRANCE", "type": "primary", "url": "" }
     ]
   },
   {
@@ -45,7 +45,7 @@
     "description": "PA",
     "buttonCount": 2,
     "buttons": [
-      { "label": "CULVER CITY", "type": "primary", "url": "/button-1-url" }
+      { "label": "CULVER CITY", "type": "primary", "url": "" }
     ]
   },
   {
@@ -56,8 +56,8 @@
     "description": "PA-C",
     "buttonCount": 2,
     "buttons": [
-      { "label": "BEVERLY HILLS", "type": "primary", "url": "/button-1-url" },
-      { "label": "CULVER CITY", "type": "primary", "url": "/button-2-url" }
+      { "label": "BEVERLY HILLS", "type": "primary", "url": "" },
+      { "label": "CULVER CITY", "type": "primary", "url": "" }
     ]
   },
   {
@@ -68,7 +68,7 @@
     "description": "MD",
     "buttonCount": 2,
     "buttons": [
-      { "label": "CULVER CITY", "type": "primary", "url": "/button-2-url" }
+      { "label": "CULVER CITY", "type": "primary", "url": "" }
     ]
   }
 ]

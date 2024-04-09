@@ -7,7 +7,7 @@
       "description": "MD Board Certified Pediatrician",
       "buttonCount": 2,
       "buttons": [
-        { "label": "MISSION HILLS", "type": "primary", "url": "/button-1-url" }
+        { "label": "MISSION HILLS", "type": "primary", "url": "" }
       ]
     },
     {
@@ -18,10 +18,10 @@
       "description": "MD, FAAP Board Certified Pediatrician",
       "buttonCount": 2,
       "buttons": [
-        { "label": "MISSION HILLS", "type": "primary", "url": "/button-1-url" },
-        { "label": "WEST HILLS", "type": "primary", "url": "/button-2-url" },
-        { "label": "NORTHRIDGE", "type": "primary", "url": "/button-2-url" },
-        { "label": "PICO RIVERA", "type": "primary", "url": "/button-2-url" }
+        { "label": "MISSION HILLS", "type": "primary", "url": "" },
+        { "label": "WEST HILLS", "type": "primary", "url": "" },
+        { "label": "NORTHRIDGE", "type": "primary", "url": "" },
+        { "label": "PICO RIVERA", "type": "primary", "url": "" }
       ]
     }
   ]

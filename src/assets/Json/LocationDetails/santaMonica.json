@@ -7,7 +7,7 @@
       "description": "NP",
       "buttonCount": 2,
       "buttons": [
-        { "label": "SANTA MONICA", "type": "primary", "url": "/button-1-url" }
+        { "label": "SANTA MONICA", "type": "primary", "url": "" }
       ]
     }
   ]
