@@ -29,7 +29,7 @@ const Arcadia = () => {
                 fontWeight: "700",
               }}
             >
-              Agoura Hills
+              Arcadia
             </h1>
             <h3
               className="container"

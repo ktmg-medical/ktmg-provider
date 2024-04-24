@@ -8,17 +8,20 @@ const { Meta } = Card;
 const { Search } = Input;
 
 export default function Home() {
-  const [searchValue, setSearchValue] = useState(""); 
-  const filteredLocations = locationsData.filter(location =>
+  const [searchValue, setSearchValue] = useState("");
+  const filteredLocations = locationsData.filter((location) =>
     location.name.toLowerCase().includes(searchValue.toLowerCase())
   );
 
-  const handleSearch = e => {
+  const handleSearch = (e) => {
     setSearchValue(e.target.value);
   };
 
   return (
-    <div className="h-screen flex justify-center items-center">
+    <div
+      className="h-screen flex justify-center items-center"
+      style={{ marginTop: "-300px", height: "200vh" }}
+    >
       <div className="container">
         <h1 className="text-3xl font-bold mb-8">Location Details</h1>
         <Search
@@ -33,7 +36,11 @@ export default function Home() {
               <Link to={location.url} target="_blank" rel="noopener noreferrer">
                 <Card
                   hoverable
-                  style={{ width: "100%", maxWidth: "300px", marginBottom: "16px" }}
+                  style={{
+                    width: "100%",
+                    maxWidth: "300px",
+                    marginBottom: "16px",
+                  }}
                 >
                   <Meta
                     title={
@@ -48,6 +55,17 @@ export default function Home() {
             </Col>
           ))}
         </Row>
+        <div>
+          <h1 className="text-3xl font-bold mb-8">Find Nearby Locations</h1>
+        </div>
+        <iframe
+          src="https://storage.googleapis.com/maps-solutions-lc432t171g/locator-plus/5x3z/locator-plus.html"
+          width="100%"
+          height="500px"
+          style={{ border: 0 }}
+          loading="lazy"
+          title="Map"
+        ></iframe>
       </div>
     </div>
   );

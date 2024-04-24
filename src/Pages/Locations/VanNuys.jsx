@@ -51,7 +51,7 @@ const VanNuys = () => {
           </Col>
         </Row>
         {/* Left half: Cards */}
-        <div style={{ height: "100vh", overflowY: "auto" }}>
+        <div style={{ height: "70vh", overflowY: "auto" }}>
           {data.map((item) => (
             <Row key={item.id} justify="left" style={{ marginLeft: "100px" }}>
               <Col
